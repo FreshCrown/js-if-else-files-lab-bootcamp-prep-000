@@ -1,4 +1,4 @@
-var name1 = "Susan";
+var name1 = 'Susan';
 var height = "74";
 
 if (name1 === "Susan") {
